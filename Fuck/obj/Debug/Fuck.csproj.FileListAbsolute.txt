@@ -1,0 +1,7 @@
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\bin\Debug\Fuck.exe.config
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\bin\Debug\Fuck.exe
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\bin\Debug\Fuck.pdb
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\bin\Debug\ExcelDataReader.dll
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\obj\Debug\Fuck.csprojResolveAssemblyReference.cache
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\obj\Debug\Fuck.exe
+c:\users\sfernandez\documents\visual studio 2015\Projects\Fuck\Fuck\obj\Debug\Fuck.pdb
